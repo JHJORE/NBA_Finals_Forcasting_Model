@@ -1,0 +1,271 @@
+Outcome,Implied Probability (%),Market Description,Data Source
+Oklahoma City Thunder,38.0,Championship Winner,Polymarket
+Boston Celtics,29.0,Championship Winner,Polymarket
+Cleveland Cavaliers,16.0,Championship Winner,Polymarket
+Golden State Warriors,6.0,Championship Winner,Polymarket
+Minnesota Timberwolves,4.0,Championship Winner,Polymarket
+Denver Nuggets,3.0,Championship Winner,Polymarket
+Los Angeles Lakers,2.0,Championship Winner,Polymarket
+Los Angeles Clippers,2.0,Championship Winner,Polymarket
+New York Knicks,1.0,Championship Winner,Polymarket
+Indiana Pacers,1.0,Championship Winner,Polymarket
+Boston Celtics,55.0,Eastern Conference Winner,Polymarket
+Cleveland Cavaliers,36.0,Eastern Conference Winner,Polymarket
+New York Knicks,5.0,Eastern Conference Winner,Polymarket
+Indiana Pacers,4.0,Eastern Conference Winner,Polymarket
+Detroit Pistons,1.0,Eastern Conference Winner,Polymarket
+Oklahoma City Thunder,63.0,Western Conference Winner,Polymarket
+Golden State Warriors,14.0,Western Conference Winner,Polymarket
+Minnesota Timberwolves,10.0,Western Conference Winner,Polymarket
+Denver Nuggets,5.0,Western Conference Winner,Polymarket
+Los Angeles Clippers,5.0,Western Conference Winner,Polymarket
+Los Angeles Lakers,3.0,Western Conference Winner,Polymarket
+Houston Rockets,1.0,Western Conference Winner,Polymarket
+Eastern Conference,48.0,Winning Conference,Polymarket
+Western Conference,54.0,Winning Conference,Polymarket
+Oklahoma City Thunder,38.46153846153847,Championship Winner,Yahoo Sports
+Boston Celtics,33.33333333333333,Championship Winner,Yahoo Sports
+Cleveland Cavaliers,16.666666666666664,Championship Winner,Yahoo Sports
+Golden State Warriors,5.88235294117647,Championship Winner,Yahoo Sports
+Minnesota Timberwolves,3.8461538461538463,Championship Winner,Yahoo Sports
+Los Angeles Lakers,2.4390243902439024,Championship Winner,Yahoo Sports
+New York Knicks,2.4390243902439024,Championship Winner,Yahoo Sports
+Los Angeles Clippers,2.4390243902439024,Championship Winner,Yahoo Sports
+Denver Nuggets,2.4390243902439024,Championship Winner,Yahoo Sports
+Indiana Pacers,1.96078431372549,Championship Winner,Yahoo Sports
+Houston Rockets,0.4975124378109453,Championship Winner,Yahoo Sports
+Detroit Pistons,0.1996007984031935,Championship Winner,Yahoo Sports
+Western Conference,53.48837209302325,Winning Conference,Yahoo Sports
+Eastern Conference,51.21951219512195,Winning Conference,Yahoo Sports
+Oklahoma City Thunder,40.0,Championship Winner,DraftKings
+Boston Celtics,33.89830508474576,Championship Winner,DraftKings
+Cleveland Cavaliers,16.666666666666664,Championship Winner,DraftKings
+Golden State Warriors,5.88235294117647,Championship Winner,DraftKings
+Minnesota Timberwolves,3.8461538461538463,Championship Winner,DraftKings
+Denver Nuggets,2.4390243902439024,Championship Winner,DraftKings
+Los Angeles Clippers,2.4390243902439024,Championship Winner,DraftKings
+New York Knicks,2.1739130434782608,Championship Winner,DraftKings
+Los Angeles Lakers,1.96078431372549,Championship Winner,DraftKings
+Indiana Pacers,1.5151515151515151,Championship Winner,DraftKings
+Houston Rockets,0.4975124378109453,Championship Winner,DraftKings
+Detroit Pistons,0.1996007984031935,Championship Winner,DraftKings
+Boston Celtics,59.18367346938776,Eastern Conference Winner,DraftKings
+Cleveland Cavaliers,38.46153846153847,Eastern Conference Winner,DraftKings
+New York Knicks,5.555555555555555,Eastern Conference Winner,DraftKings
+Indiana Pacers,5.263157894736842,Eastern Conference Winner,DraftKings
+Detroit Pistons,0.6622516556291391,Eastern Conference Winner,DraftKings
+Oklahoma City Thunder,64.28571428571429,Western Conference Winner,DraftKings
+Golden State Warriors,15.384615384615383,Western Conference Winner,DraftKings
+Denver Nuggets,7.142857142857142,Western Conference Winner,DraftKings
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,DraftKings
+Los Angeles Clippers,6.25,Western Conference Winner,DraftKings
+Los Angeles Lakers,5.0,Western Conference Winner,DraftKings
+Houston Rockets,1.7857142857142856,Western Conference Winner,DraftKings
+Boston Celtics v Cleveland Cavaliers,72.22222222222221,Conference Finals Matchup,DraftKings
+Boston Celtics v Indiana Pacers,20.40816326530612,Conference Finals Matchup,DraftKings
+New York Knicks v Cleveland Cavaliers,11.76470588235294,Conference Finals Matchup,DraftKings
+New York Knicks v Indiana Pacers,3.225806451612903,Conference Finals Matchup,DraftKings
+Cleveland Cavaliers v Detroit Pistons,1.639344262295082,Conference Finals Matchup,DraftKings
+Detroit Pistons v Indiana Pacers,0.4975124378109453,Conference Finals Matchup,DraftKings
+Oklahoma City Thunder (vs Boston Celtics),54.54545454545454,Team To Advance Further,DraftKings
+Boston Celtics (vs Oklahoma City Thunder),50.0,Team To Advance Further,DraftKings
+Oklahoma City Thunder (vs Cleveland Cavaliers),68.25396825396825,Team To Advance Further,DraftKings
+Cleveland Cavaliers (vs Oklahoma City Thunder),36.36363636363637,Team To Advance Further,DraftKings
+Los Angeles Clippers (vs Los Angeles Lakers),67.74193548387096,Team To Advance Further,DraftKings
+Los Angeles Lakers (vs Los Angeles Clippers),36.36363636363637,Team To Advance Further,DraftKings
+Boston Celtics (vs Los Angeles Lakers),96.7741935483871,Team To Advance Further,DraftKings
+Los Angeles Lakers (vs Boston Celtics),7.142857142857142,Team To Advance Further,DraftKings
+New York Knicks (vs Los Angeles Lakers),85.71428571428571,Team To Advance Further,DraftKings
+Los Angeles Lakers (vs New York Knicks),19.047619047619047,Team To Advance Further,DraftKings
+Indiana Pacers (vs Los Angeles Lakers),90.0,Team To Advance Further,DraftKings
+Los Angeles Lakers (vs Indiana Pacers),14.285714285714285,Team To Advance Further,DraftKings
+Oklahoma City Thunder to beat Boston Celtics,21.27659574468085,Championship Exact Result,FanDuel
+Boston Celtics to beat Oklahoma City Thunder,18.181818181818183,Championship Exact Result,FanDuel
+Oklahoma City Thunder to beat Cleveland Cavaliers,16.94915254237288,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Oklahoma City Thunder,9.090909090909092,Championship Exact Result,FanDuel
+Boston Celtics to beat Golden State Warriors,5.88235294117647,Championship Exact Result,FanDuel
+Boston Celtics to beat Minnesota Timberwolves,5.0,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Golden State Warriors,3.4482758620689653,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Minnesota Timberwolves,3.125,Championship Exact Result,FanDuel
+Boston Celtics to beat Denver Nuggets,3.125,Championship Exact Result,FanDuel
+Oklahoma City Thunder to beat New York Knicks,3.0303030303030303,Championship Exact Result,FanDuel
+Golden State Warriors to beat Boston Celtics,2.941176470588235,Championship Exact Result,FanDuel
+Oklahoma City Thunder to beat Indiana Pacers,3.0303030303030303,Championship Exact Result,FanDuel
+Boston Celtics to beat Los Angeles Clippers,2.631578947368421,Championship Exact Result,FanDuel
+Golden State Warriors to beat Cleveland Cavaliers,2.4390243902439024,Championship Exact Result,FanDuel
+Minnesota Timberwolves to beat Boston Celtics,2.3255813953488373,Championship Exact Result,FanDuel
+Boston Celtics to beat Los Angeles Lakers,1.96078431372549,Championship Exact Result,FanDuel
+Minnesota Timberwolves to beat Cleveland Cavaliers,1.96078431372549,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Denver Nuggets,1.96078431372549,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Los Angeles Clippers,1.639344262295082,Championship Exact Result,FanDuel
+Denver Nuggets to beat Boston Celtics,1.5151515151515151,Championship Exact Result,FanDuel
+Los Angeles Clippers to beat Boston Celtics,1.4084507042253522,Championship Exact Result,FanDuel
+New York Knicks to beat Oklahoma City Thunder,1.3157894736842104,Championship Exact Result,FanDuel
+Denver Nuggets to beat Cleveland Cavaliers,1.162790697674419,Championship Exact Result,FanDuel
+Los Angeles Lakers to beat Boston Celtics,1.098901098901099,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Los Angeles Lakers,1.098901098901099,Championship Exact Result,FanDuel
+Los Angeles Clippers to beat Cleveland Cavaliers,1.098901098901099,Championship Exact Result,FanDuel
+Boston Celtics to beat Houston Rockets,1.098901098901099,Championship Exact Result,FanDuel
+Los Angeles Lakers to beat Cleveland Cavaliers,0.99009900990099,Championship Exact Result,FanDuel
+Indiana Pacers to beat Oklahoma City Thunder,0.9009009009009008,Championship Exact Result,FanDuel
+Golden State Warriors to beat New York Knicks,0.6211180124223602,Championship Exact Result,FanDuel
+Cleveland Cavaliers to beat Houston Rockets,0.7633587786259541,Championship Exact Result,FanDuel
+Golden State Warriors to beat Indiana Pacers,0.5847953216374269,Championship Exact Result,FanDuel
+New York Knicks to beat Golden State Warriors,0.5847953216374269,Championship Exact Result,FanDuel
+New York Knicks to beat Minnesota Timberwolves,0.5524861878453038,Championship Exact Result,FanDuel
+Minnesota Timberwolves to beat Indiana Pacers,0.5235602094240838,Championship Exact Result,FanDuel
+Minnesota Timberwolves to beat New York Knicks,0.5235602094240838,Championship Exact Result,FanDuel
+Oklahoma City Thunder to beat Detroit Pistons,0.5235602094240838,Championship Exact Result,FanDuel
+Indiana Pacers to beat Golden State Warriors,0.4739336492890995,Championship Exact Result,FanDuel
+Houston Rockets to beat Boston Celtics,0.5235602094240838,Championship Exact Result,FanDuel
+Indiana Pacers to beat Minnesota Timberwolves,0.4149377593360996,Championship Exact Result,FanDuel
+Houston Rockets to beat Cleveland Cavaliers,0.398406374501992,Championship Exact Result,FanDuel
+Denver Nuggets to beat Indiana Pacers,0.3115264797507788,Championship Exact Result,FanDuel
+New York Knicks to beat Denver Nuggets,0.3115264797507788,Championship Exact Result,FanDuel
+Denver Nuggets to beat New York Knicks,0.3115264797507788,Championship Exact Result,FanDuel
+Los Angeles Clippers to beat New York Knicks,0.2849002849002849,Championship Exact Result,FanDuel
+Los Angeles Clippers to beat Indiana Pacers,0.2695417789757413,Championship Exact Result,FanDuel
+New York Knicks to beat Los Angeles Clippers,0.2375296912114014,Championship Exact Result,FanDuel
+Indiana Pacers to beat Denver Nuggets,0.2169197396963123,Championship Exact Result,FanDuel
+Los Angeles Lakers to beat New York Knicks,0.1996007984031935,Championship Exact Result,FanDuel
+Los Angeles Lakers to beat Indiana Pacers,0.1996007984031935,Championship Exact Result,FanDuel
+New York Knicks to beat Los Angeles Lakers,0.1814882032667876,Championship Exact Result,FanDuel
+Indiana Pacers to beat Los Angeles Clippers,0.1814882032667876,Championship Exact Result,FanDuel
+Detroit Pistons to beat Oklahoma City Thunder,0.1663893510815307,Championship Exact Result,FanDuel
+Indiana Pacers to beat Los Angeles Lakers,0.1248439450686641,Championship Exact Result,FanDuel
+New York Knicks to beat Houston Rockets,0.0999000999000999,Championship Exact Result,FanDuel
+Houston Rockets to beat New York Knicks,0.0999000999000999,Championship Exact Result,FanDuel
+Houston Rockets to beat Indiana Pacers,0.0999000999000999,Championship Exact Result,FanDuel
+Los Angeles Lakers to beat Detroit Pistons,0.0999000999000999,Championship Exact Result,FanDuel
+Detroit Pistons to beat Los Angeles Clippers,0.0999000999000999,Championship Exact Result,FanDuel
+Denver Nuggets to beat Detroit Pistons,0.0999000999000999,Championship Exact Result,FanDuel
+Detroit Pistons to beat Minnesota Timberwolves,0.0999000999000999,Championship Exact Result,FanDuel
+Los Angeles Clippers to beat Detroit Pistons,0.0999000999000999,Championship Exact Result,FanDuel
+Houston Rockets to beat Detroit Pistons,0.0999000999000999,Championship Exact Result,FanDuel
+Golden State Warriors to beat Detroit Pistons,0.0999000999000999,Championship Exact Result,FanDuel
+Detroit Pistons to beat Los Angeles Lakers,0.0999000999000999,Championship Exact Result,FanDuel
+Detroit Pistons to beat Golden State Warriors,0.0999000999000999,Championship Exact Result,FanDuel
+Minnesota Timberwolves to beat Detroit Pistons,0.0999000999000999,Championship Exact Result,FanDuel
+Indiana Pacers to beat Houston Rockets,0.0999000999000999,Championship Exact Result,FanDuel
+Detroit Pistons to beat Houston Rockets,0.0999000999000999,Championship Exact Result,FanDuel
+Detroit Pistons to beat Denver Nuggets,0.0999000999000999,Championship Exact Result,FanDuel
+Oklahoma City Thunder,40.81632653061224,Championship Winner,Caesars NJ
+Boston Celtics,33.33333333333333,Championship Winner,Caesars NJ
+Cleveland Cavaliers,16.0,Championship Winner,Caesars NJ
+Golden State Warriors,6.25,Championship Winner,Caesars NJ
+Minnesota Timberwolves,3.8461538461538463,Championship Winner,Caesars NJ
+Denver Nuggets,2.4390243902439024,Championship Winner,Caesars NJ
+Los Angeles Clippers,2.4390243902439024,Championship Winner,Caesars NJ
+New York Knicks,1.96078431372549,Championship Winner,Caesars NJ
+Los Angeles Lakers,2.1739130434782608,Championship Winner,Caesars NJ
+Indiana Pacers,1.96078431372549,Championship Winner,Caesars NJ
+Houston Rockets,0.4975124378109453,Championship Winner,Caesars NJ
+Detroit Pistons,0.2849002849002849,Championship Winner,Caesars NJ
+Oklahoma City Thunder,38.46153846153847,Championship Winner,Borgata
+Boston Celtics,33.33333333333333,Championship Winner,Borgata
+Cleveland Cavaliers,16.666666666666664,Championship Winner,Borgata
+Golden State Warriors,5.88235294117647,Championship Winner,Borgata
+Minnesota Timberwolves,3.8461538461538463,Championship Winner,Borgata
+Denver Nuggets,2.4390243902439024,Championship Winner,Borgata
+Los Angeles Clippers,2.4390243902439024,Championship Winner,Borgata
+New York Knicks,2.4390243902439024,Championship Winner,Borgata
+Los Angeles Lakers,2.4390243902439024,Championship Winner,Borgata
+Indiana Pacers,1.96078431372549,Championship Winner,Borgata
+Houston Rockets,0.4975124378109453,Championship Winner,Borgata
+Detroit Pistons,0.1996007984031935,Championship Winner,Borgata
+Oklahoma City Thunder,38.46153846153847,Championship Winner,BetRivers
+Boston Celtics,33.33333333333333,Championship Winner,BetRivers
+Cleveland Cavaliers,16.666666666666664,Championship Winner,BetRivers
+Golden State Warriors,5.88235294117647,Championship Winner,BetRivers
+Minnesota Timberwolves,3.8461538461538463,Championship Winner,BetRivers
+Denver Nuggets,2.4390243902439024,Championship Winner,BetRivers
+Los Angeles Clippers,2.4390243902439024,Championship Winner,BetRivers
+New York Knicks,2.4390243902439024,Championship Winner,BetRivers
+Los Angeles Lakers,2.4390243902439024,Championship Winner,BetRivers
+Indiana Pacers,1.96078431372549,Championship Winner,BetRivers
+Houston Rockets,0.4975124378109453,Championship Winner,BetRivers
+Detroit Pistons,0.1996007984031935,Championship Winner,BetRivers
+Boston Celtics,58.333333333333336,Eastern Conference Winner,FanDuel
+Cleveland Cavaliers,39.21568627450981,Eastern Conference Winner,FanDuel
+New York Knicks,5.555555555555555,Eastern Conference Winner,FanDuel
+Indiana Pacers,5.263157894736842,Eastern Conference Winner,FanDuel
+Detroit Pistons,0.7633587786259541,Eastern Conference Winner,FanDuel
+Boston Celtics,59.18367346938776,Eastern Conference Winner,DraftKings
+Cleveland Cavaliers,38.46153846153847,Eastern Conference Winner,DraftKings
+New York Knicks,5.555555555555555,Eastern Conference Winner,DraftKings
+Indiana Pacers,5.263157894736842,Eastern Conference Winner,DraftKings
+Detroit Pistons,0.6622516556291391,Eastern Conference Winner,DraftKings
+Boston Celtics,58.333333333333336,Eastern Conference Winner,BetMGM
+Cleveland Cavaliers,37.735849056603776,Eastern Conference Winner,BetMGM
+New York Knicks,5.88235294117647,Eastern Conference Winner,BetMGM
+Indiana Pacers,5.263157894736842,Eastern Conference Winner,BetMGM
+Detroit Pistons,0.6622516556291391,Eastern Conference Winner,BetMGM
+Boston Celtics,59.18367346938776,Eastern Conference Winner,Bet365 US
+Cleveland Cavaliers,38.46153846153847,Eastern Conference Winner,Bet365 US
+New York Knicks,5.88235294117647,Eastern Conference Winner,Bet365 US
+Indiana Pacers,5.263157894736842,Eastern Conference Winner,Bet365 US
+Detroit Pistons,0.7936507936507936,Eastern Conference Winner,Bet365 US
+Boston Celtics,58.333333333333336,Eastern Conference Winner,Caesars NJ
+Cleveland Cavaliers,37.735849056603776,Eastern Conference Winner,Caesars NJ
+New York Knicks,5.263157894736842,Eastern Conference Winner,Caesars NJ
+Indiana Pacers,6.25,Eastern Conference Winner,Caesars NJ
+Detroit Pistons,0.7633587786259541,Eastern Conference Winner,Caesars NJ
+Boston Celtics,58.333333333333336,Eastern Conference Winner,Borgata
+Cleveland Cavaliers,37.735849056603776,Eastern Conference Winner,Borgata
+New York Knicks,5.88235294117647,Eastern Conference Winner,Borgata
+Indiana Pacers,5.263157894736842,Eastern Conference Winner,Borgata
+Detroit Pistons,0.6622516556291391,Eastern Conference Winner,Borgata
+Boston Celtics,60.31746031746032,Eastern Conference Winner,BetRivers
+Cleveland Cavaliers,41.66666666666667,Eastern Conference Winner,BetRivers
+New York Knicks,5.88235294117647,Eastern Conference Winner,BetRivers
+Indiana Pacers,4.761904761904762,Eastern Conference Winner,BetRivers
+Detroit Pistons,0.6622516556291391,Eastern Conference Winner,BetRivers
+Oklahoma City Thunder,64.91228070175438,Western Conference Winner,FanDuel
+Golden State Warriors,13.333333333333334,Western Conference Winner,FanDuel
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,FanDuel
+Denver Nuggets,6.666666666666667,Western Conference Winner,FanDuel
+Los Angeles Clippers,5.555555555555555,Western Conference Winner,FanDuel
+Los Angeles Lakers,4.166666666666666,Western Conference Winner,FanDuel
+Houston Rockets,2.1739130434782608,Western Conference Winner,FanDuel
+Oklahoma City Thunder,64.28571428571429,Western Conference Winner,DraftKings
+Golden State Warriors,14.285714285714285,Western Conference Winner,DraftKings
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,DraftKings
+Denver Nuggets,7.142857142857142,Western Conference Winner,DraftKings
+Los Angeles Clippers,6.25,Western Conference Winner,DraftKings
+Los Angeles Lakers,5.0,Western Conference Winner,DraftKings
+Houston Rockets,3.225806451612903,Western Conference Winner,DraftKings
+Oklahoma City Thunder,63.63636363636363,Western Conference Winner,BetMGM
+Golden State Warriors,14.285714285714285,Western Conference Winner,BetMGM
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,BetMGM
+Denver Nuggets,7.142857142857142,Western Conference Winner,BetMGM
+Los Angeles Clippers,5.88235294117647,Western Conference Winner,BetMGM
+Los Angeles Lakers,4.761904761904762,Western Conference Winner,BetMGM
+Houston Rockets,3.225806451612903,Western Conference Winner,BetMGM
+Oklahoma City Thunder,65.51724137931035,Western Conference Winner,Bet365 US
+Golden State Warriors,14.814814814814811,Western Conference Winner,Bet365 US
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,Bet365 US
+Denver Nuggets,6.25,Western Conference Winner,Bet365 US
+Los Angeles Clippers,5.263157894736842,Western Conference Winner,Bet365 US
+Los Angeles Lakers,4.3478260869565215,Western Conference Winner,Bet365 US
+Houston Rockets,1.7857142857142856,Western Conference Winner,Bet365 US
+Oklahoma City Thunder,63.63636363636363,Western Conference Winner,Caesars NJ
+Golden State Warriors,14.285714285714285,Western Conference Winner,Caesars NJ
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,Caesars NJ
+Denver Nuggets,7.142857142857142,Western Conference Winner,Caesars NJ
+Los Angeles Clippers,5.88235294117647,Western Conference Winner,Caesars NJ
+Los Angeles Lakers,4.761904761904762,Western Conference Winner,Caesars NJ
+Houston Rockets,1.4925373134328357,Western Conference Winner,Caesars NJ
+Oklahoma City Thunder,63.63636363636363,Western Conference Winner,Borgata
+Golden State Warriors,14.285714285714285,Western Conference Winner,Borgata
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,Borgata
+Denver Nuggets,7.142857142857142,Western Conference Winner,Borgata
+Los Angeles Clippers,5.88235294117647,Western Conference Winner,Borgata
+Los Angeles Lakers,4.761904761904762,Western Conference Winner,Borgata
+Houston Rockets,1.4925373134328357,Western Conference Winner,Borgata
+Oklahoma City Thunder,63.63636363636363,Western Conference Winner,BetRivers
+Golden State Warriors,14.285714285714285,Western Conference Winner,BetRivers
+Minnesota Timberwolves,11.11111111111111,Western Conference Winner,BetRivers
+Denver Nuggets,7.142857142857142,Western Conference Winner,BetRivers
+Los Angeles Clippers,5.88235294117647,Western Conference Winner,BetRivers
+Los Angeles Lakers,4.761904761904762,Western Conference Winner,BetRivers
+Houston Rockets,1.4925373134328357,Western Conference Winner,BetRivers
